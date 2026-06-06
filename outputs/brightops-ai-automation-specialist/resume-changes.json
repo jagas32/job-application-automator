@@ -1,0 +1,19 @@
+{
+  "keywords_incorporated": [
+    "AI Automation Specialist", "Claude", "Python", "prompt engineering",
+    "structured JSON outputs", "multi-step workflows", "data pipelines",
+    "Claude Skills", "subagents", "MCP", "Claude API", "clean and normalize",
+    "QA", "documentation", "GitHub", "process optimization"
+  ],
+  "keywords_unmatched": ["no-code platforms", "async (tooling: Slack not on resume)"],
+  "sections_reordered": [
+    "Data Report Automator moved to first project (closest match to core data-pipeline responsibility)",
+    "Skills moved above Professional Experience (AI skills are the selling point)",
+    "Skills regrouped: added Data Workflows category mirroring the posting"
+  ],
+  "bullets_rewritten": 9,
+  "notes_for_jason": [
+    "Summary now mirrors the exact role title 'AI Automation Specialist'",
+    "If you've used Zapier/Make or similar, add it - posting mentions no-code platforms"
+  ]
+}

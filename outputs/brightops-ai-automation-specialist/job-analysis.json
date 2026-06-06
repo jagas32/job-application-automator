@@ -1,0 +1,48 @@
+{
+  "company": "BrightOps Solutions",
+  "role": "AI Automation Specialist",
+  "location": "Remote (US-based)",
+  "seniority": "Mid-level hourly, growth path to Senior Automation Engineer",
+  "comp": "$18-25/hr, paid weekly",
+  "required_skills": [
+    "Hands-on LLM automation experience (Claude preferred)",
+    "Prompt engineering",
+    "Structured JSON outputs",
+    "Multi-step workflows",
+    "Python for scripting and data processing",
+    "Attention to detail / process-optimization mindset",
+    "Self-directed remote async work",
+    "Clear written communication"
+  ],
+  "preferred_skills": [
+    "Claude Skills, subagents, MCP, or the Claude API",
+    "Portfolio of automation projects (GitHub or similar)",
+    "Background in operations, logistics, or data-heavy environments",
+    "Git/GitHub workflows",
+    "Documentation or SOP writing"
+  ],
+  "ats_keywords": [
+    "AI Automation Specialist", "Claude", "Python", "prompt engineering",
+    "structured JSON outputs", "multi-step workflows", "automation workflows",
+    "data pipelines", "Claude Skills", "subagents", "MCP", "Claude API",
+    "clean and normalize", "QA", "documentation", "GitHub", "async",
+    "process optimization", "no-code platforms"
+  ],
+  "responsibilities": [
+    "Build and maintain AI-driven automation workflows (Claude + Python)",
+    "Design data pipelines: ingest messy CSV/spreadsheet/document data, clean and normalize, generate reports",
+    "Write prompts and reusable skill templates with consistent brand-aligned output",
+    "Document workflows for non-technical clients and teammates",
+    "Test and QA automation outputs before client delivery",
+    "Async communication via Slack + weekly video check-ins"
+  ],
+  "company_signals": {
+    "mission": "Help small and mid-size businesses streamline back-office operations with AI-powered workflows",
+    "values": ["reliability", "clarity for non-technical clients", "async-first remote culture"],
+    "tone": "practical, friendly, no-nonsense"
+  },
+  "flags": [
+    "Posting mentions no-code platforms - not on resume (minor; transferable)",
+    "Application asks for a project link - lead with strongest GitHub repo"
+  ]
+}

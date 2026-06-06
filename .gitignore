@@ -1,0 +1,26 @@
+# Personal data — base resume kept private
+inputs/my_base_resume.md
+
+# Real application outputs (keep only anonymized samples committed)
+# outputs/  # uncomment to ignore all generated outputs
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment / secrets
+.env
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temp
+*.tmp
+*.bak
+~$*
